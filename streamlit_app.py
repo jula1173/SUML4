@@ -6,7 +6,7 @@ from transformers import pipeline
 
 
 st.title("Aplikacja NLP - Analiza Wydźwięku i Tłumaczenie Tekstu")
-
+st.image("Piesek.jpg", caption="obrazek")
 
 st.header("Wprowadzenie")
 st.write("Witaj w aplikacji do analizy wydźwięku tekstu oraz tłumaczenia! Używamy narzędzi NLP, by pomagać w analizie treści i tłumaczeniu.")
